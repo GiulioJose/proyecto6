@@ -23,8 +23,6 @@ La conexión se realiza mediante un archivo `.env`:
 DB_URL=mongodb+srv://user1:********@cluster0.bctvjs8.mongodb.net/libreria?retryWrites=true&w=majority&appName=Cluster0
 ```
 
-⚠️ Asegúrate de que la IP pública `0.0.0.0/0` esté habilitada en MongoDB Atlas.
-
 ---
 
 ## 🧪 Semilla (Seed)
